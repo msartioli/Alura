@@ -1,6 +1,6 @@
 # ☕ Java na Alura
 
-<img src="https://i.imgur.com/kq4hrkD.png" alt="Banner Java na Alura" width="100%">
+<img src="https://i.imgur.com/Nhu7eXL.png" alt="Banner Java na Alura" width="100%">
 
 ## 📌 Sobre este repositório
 
